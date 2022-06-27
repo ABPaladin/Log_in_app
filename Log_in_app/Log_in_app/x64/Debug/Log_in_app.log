@@ -1,0 +1,4 @@
+﻿  Log_in_app.cpp
+C:\Users\user\source\repos\Log_in_app\Log_in_app\Log_in_app\Log_in_app.cpp(87): warning C4715: 'Password::Sign_up': not all control paths return a value
+C:\Users\user\source\repos\Log_in_app\Log_in_app\Log_in_app\Log_in_app.cpp(55): warning C4715: 'Password::Entrance': not all control paths return a value
+  Log_in_app.vcxproj -> C:\Users\user\source\repos\Log_in_app\Log_in_app\x64\Debug\Log_in_app.exe
